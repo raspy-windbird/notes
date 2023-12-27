@@ -2,5 +2,5 @@
 
 comimomeのページです
 
-[プロフィール](contents\PROFILE.md)
-[リンク](contents\LINK.md)
+[プロフィール](contents/PROFILE.md)  
+[リンク](contents/LINK.md)
