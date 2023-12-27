@@ -2,5 +2,6 @@
 
 comimomeのページです
 
-[プロフィール](contents/PROFILE.md)  
-[リンク](contents/LINK.md)
+[プロフィール](contents/profile.md)  
+[リンク](contents/link.md)  
+[読んだ漫画](contents/manga.md)
