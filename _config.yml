@@ -5,5 +5,5 @@ logo: /assets/img/icon.jpg
 # google_analytics:
 theme: jekyll-theme-minimal
 
-social_links:
-  - { platform: x, user_rul: "https://x.com/comimome"}
+# social_links:
+#   - { platform: x, user_rul: "https://x.com/comimome"}
