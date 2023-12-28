@@ -4,3 +4,6 @@ logo: /assets/img/icon.jpg
 # show_downloads: true
 # google_analytics:
 theme: jekyll-theme-minimal
+
+social_links:
+  - { platform: x, user_rul: "https://x.com/comimome"}
