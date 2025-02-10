@@ -1,2 +1,2 @@
 # profile
-- 名前：raspy-windbird（うぃんどばーど）
+名前：raspy-windbird（うぃんどばーど）
