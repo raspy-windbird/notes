@@ -2,6 +2,6 @@
 
 comimomeのページです
 
-[プロフィール](https://comimome.github.io/comimome_web/contents/profile.html)  
-[リンク](https://comimome.github.io/comimome_web/contents/link.html)  
-[雑記](https://comimome.github.io/comimome_web/contents/notes.html)
+[プロフィール](https://raspy-windbird.github.io/comimome_web/contents/profile.html)  
+[リンク](https://raspy-windbird.github.io/comimome_web/contents/link.html)  
+[雑記](https://raspy-windbird.github.io/comimome_web/contents/notes.html)
